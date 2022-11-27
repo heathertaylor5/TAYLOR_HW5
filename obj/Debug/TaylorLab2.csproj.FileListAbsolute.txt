@@ -1,0 +1,11 @@
+C:\0-Fall2022\Programming\Assignments\Lab2\TaylorLab2\bin\Debug\TaylorLab2.exe.config
+C:\0-Fall2022\Programming\Assignments\Lab2\TaylorLab2\bin\Debug\TaylorLab2.exe
+C:\0-Fall2022\Programming\Assignments\Lab2\TaylorLab2\bin\Debug\TaylorLab2.pdb
+C:\0-Fall2022\Programming\Assignments\Lab2\TaylorLab2\obj\Debug\TaylorLab2.csproj.AssemblyReference.cache
+C:\0-Fall2022\Programming\Assignments\Lab2\TaylorLab2\obj\Debug\TaylorLab2.csproj.SuggestedBindingRedirects.cache
+C:\0-Fall2022\Programming\Assignments\Lab2\TaylorLab2\obj\Debug\TaylorLab2.Form1.resources
+C:\0-Fall2022\Programming\Assignments\Lab2\TaylorLab2\obj\Debug\TaylorLab2.Properties.Resources.resources
+C:\0-Fall2022\Programming\Assignments\Lab2\TaylorLab2\obj\Debug\TaylorLab2.csproj.GenerateResource.cache
+C:\0-Fall2022\Programming\Assignments\Lab2\TaylorLab2\obj\Debug\TaylorLab2.csproj.CoreCompileInputs.cache
+C:\0-Fall2022\Programming\Assignments\Lab2\TaylorLab2\obj\Debug\TaylorLab2.exe
+C:\0-Fall2022\Programming\Assignments\Lab2\TaylorLab2\obj\Debug\TaylorLab2.pdb
