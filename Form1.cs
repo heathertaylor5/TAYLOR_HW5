@@ -75,7 +75,7 @@ namespace TaylorLab2
                 + "\n"
                 + "\nShe charged at me when I called her and that's how she got her name."
                 + "\n"
-                + "\nThis is the change I'm making for Dev Tools homework #5.";
+                + "\nI lied, this is the real change I'm making for homework 5.";
 
         }
 
