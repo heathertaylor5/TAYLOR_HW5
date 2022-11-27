@@ -75,7 +75,7 @@ namespace TaylorLab2
                 + "\n"
                 + "\nShe charged at me when I called her and that's how she got her name."
                 + "\n"
-                + "\nShe isn't the friendliest cat but she cuddles up when serenaded.";
+                + "\nThis is the change I'm making for Dev Tools homework #5.";
 
         }
 
